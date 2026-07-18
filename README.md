@@ -24,3 +24,10 @@ AutoClean vérifie automatiquement les nouvelles versions au démarrage (désact
 ## 🛟 Support
 
 Un problème ou une suggestion ? Utilisez la **Boîte à suggestions** dans l'application, ou ouvrez une [issue](../../issues) ici.
+
+## 📜 Licence
+
+AutoClean est distribué sous **licence propriétaire** : utilisation personnelle
+gratuite, redistribution et republication interdites en dehors de ce dépôt
+officiel. Voir [LICENSE](LICENSE) (version anglaise faisant foi —
+traductions : [français](LICENSE.fr.md) · [español](LICENSE.es.md)).
